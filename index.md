@@ -1,12 +1,12 @@
 ---
-title: UNM Campus Histories
+title: The-Pit
 date: 2019-04-25
 layout: wide
 css: home.css
 header-image: "/assets/images/hodgin-sandias-background.jpg"
-header-title: UNM Campus Histories
-header-subtitle: a student-driven digital history collaboration
-header-caption: Hodgin Hall and the Sandia Mountains
+header-title: The-Pit
+header-subtitle: Lauren Tercero
+header-caption: The Pit
 header-position: 0px 0px
 category: Digital History
 ---
